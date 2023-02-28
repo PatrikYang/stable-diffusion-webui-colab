@@ -1,1 +1,1 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PatrikYang/stable-diffusion-webui-colab/edit/main/README.md) stable_diffusion_webui_colab with Lora
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//PatrikYang/stable-diffusion-webui-colab/blob/main/StableDiffusionWEBUI.ipynb) stable_diffusion_webui_colab with Lora
